@@ -32,3 +32,5 @@ Sites - add website - udělat si novej file "webs" a do toho jeste "www" a dát 
 //CERTIFIKACE webu  
   kLIKNEME NA rambo test\administator vpravo a Server certificate - create certificate request a pak create self signed certificate "www.test.local! a web hosting pak vyberem web "www" a dáme si Bindings..add - https a dole zvolime certificat a host name www.test.local
 kdybych chtel presmerovat automaticky HTTP HTTPS tak vpravo je HSTS a dáme redirect
+
+https://www.site24x7.com/tools/ipv4-subnetcalculator.html
